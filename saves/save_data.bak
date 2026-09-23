@@ -1,0 +1,38 @@
+{
+  "version": "1.0",
+  "checksum": "a1bcf5fd131604d0e6302d83274f4f5d3dd545cd1f7ce685f5a6963a888d74f1",
+  "data": {
+    "unlocked_worlds": [
+      1
+    ],
+    "unlocked_levels": [
+      "1-1",
+      "1-2"
+    ],
+    "completed_levels": [
+      "1-1"
+    ],
+    "total_star_shards": 1,
+    "secret_crystals": [],
+    "high_scores": {
+      "1-1": 200
+    },
+    "best_times": {
+      "1-1": 0.0
+    },
+    "campaign_completed": false,
+    "settings": {
+      "resolution_index": 2,
+      "fullscreen": false,
+      "vsync": true,
+      "master_volume": 0.8,
+      "music_volume": 0.1,
+      "sfx_volume": 1.0,
+      "screen_shake": true,
+      "assist_mode": false,
+      "assist_extra_health": false,
+      "assist_extra_coyote": false,
+      "assist_slower_enemies": false
+    }
+  }
+}
